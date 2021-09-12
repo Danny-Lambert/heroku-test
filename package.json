@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@heroku-cli/plugin-buildpacks": "^7.54.0",
     "@heroku/buildpack-registry": "^1.0.1",
     "@mongodb-js/charts-embed-dom": "^2.1.0",
     "@testing-library/jest-dom": "^5.11.4",
